@@ -62,7 +62,7 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center p-6">
+    <div className="min-h-screen flex items-center justify-center p-6 app-background">
       <div className="w-full max-w-4xl bg-white rounded-2xl shadow-lg p-6">
         <div className="flex items-center justify-between mb-6">
           <h1 className="text-2xl sm:text-3xl font-extrabold">Encuentra la casa que imaginas</h1>

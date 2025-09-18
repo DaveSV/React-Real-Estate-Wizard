@@ -3,3 +3,14 @@
 @tailwind utilities;
 
 body { @apply bg-gray-50 text-slate-800; }
+
+/*
+  NOTE: This background image is loaded from an external URL for demonstration.
+  For production, it's recommended to download this image and serve it locally.
+  Image URL: https://images.unsplash.com/photo-1568605114967-8130f3a36994
+*/
+.app-background {
+  background-image: url('https://images.unsplash.com/photo-1634985492748-27153eaab771');
+  background-size: cover;
+  background-position: center;
+}
