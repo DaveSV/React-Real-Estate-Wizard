@@ -101,6 +101,7 @@ Screenshots of user flow:
 <img width="1357" height="667" alt="Captura de pantalla 2025-09-17 222238" src="https://github.com/user-attachments/assets/53f33cd9-1ed8-4bcf-920a-5d488b84e9a1" />
 <img width="1351" height="671" alt="Captura de pantalla 2025-09-17 222249" src="https://github.com/user-attachments/assets/ca00f576-4ab6-4983-9ada-02d17d20ae02" />
 <img width="1354" height="674" alt="Captura de pantalla 2025-09-17 222300" src="https://github.com/user-attachments/assets/e70379a4-010b-4703-947f-771374c65231" />
+<img width="666" height="481" alt="Captura de pantalla 2025-09-17 222409" src="https://github.com/user-attachments/assets/d6880607-6196-4b2a-abd4-549fea9931c4" />
 
 
 
