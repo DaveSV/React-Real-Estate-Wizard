@@ -1,31 +1,86 @@
-# Real Estate Wizard
-
-<img width="1356" height="669" alt="Captura de pantalla 2025-09-17 222216" src="https://github.com/user-attachments/assets/742a99b1-9c09-4f3d-886b-bb7fb059c97f" />
+# 🏡 Real Estate Wizard
 
 
-This is a modern web application that helps users find their ideal real estate properties through an intuitive multi-step process. Users can provide a description, an inspirational image, a location, and other details to define their search.
 
-The project is built with React and Vite, and styled with Tailwind CSS.
+> **Real Estate Wizard** is a modern web application that guides users step by step to find their dream property.
+> Users can upload an inspirational image, describe what they are looking for, select a location on an interactive map, and adjust filters like price and number of rooms.
 
-## Development Setup
+---
 
-1.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
+## ✨ Features
+- **🖼️ Image Upload** – Let users show the style of house they want.
+- **✍️ Description Field** – Accepts free text with location, style, and preferences.
+- **🗺️ Interactive Map** – Select location by clicking directly on the map.
+- **🎛️ Filter Step** – Adjust price range and minimum rooms.
+- **✅ Confirmation Step** – Review selections before submitting.
+- **🎨 Smooth Animations** – Built with **Framer Motion** for a modern feel.
+- **📱 Responsive Design** – Looks great on desktop and mobile.
 
-2.  **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-    The application will be available at `http://localhost:5173` (or the next available port).
 
-## Building for Production
+---
 
-To create a production-ready build of the application, run:
+## 🛠️ Technologies Used
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+---
+
+## 🚀 Development Setup
+
+### 1️⃣ Install dependencies
+```bash
+npm install
+```
+
+### 2️⃣ Run development server
+```bash
+npm run dev
+```
+Then open [http://localhost:5173](http://localhost:5173) in your browser.
+
+### 3️⃣ Build for production
 ```bash
 npm run build
 ```
+This will create a `dist/` folder with optimized static files ready to deploy.
 
-This will generate a `dist` folder with the optimized static files that can be deployed to any web server.
+---
+
+## 🧩 Project Structure
+```bash
+real-estate-wizard/
+ ├── index.html
+ ├── package.json
+ ├── postcss.config.cjs
+ ├── tailwind.config.cjs
+ └── src/
+     ├── App.jsx        # Main wizard component
+     ├── main.jsx       # App entry point
+     └── index.css      # Tailwind base styles
+```
+
+---
+
+## 🎥 Demo & Screenshots
+Screenshots of user flow:
+
+<img width="1356" height="669" alt="Captura de pantalla 2025-09-17 222216" src="https://github.com/user-attachments/assets/742a99b1-9c09-4f3d-886b-bb7fb059c97f" />
+<img width="1357" height="667" alt="Captura de pantalla 2025-09-17 222238" src="https://github.com/user-attachments/assets/53f33cd9-1ed8-4bcf-920a-5d488b84e9a1" />
+<img width="1351" height="671" alt="Captura de pantalla 2025-09-17 222249" src="https://github.com/user-attachments/assets/ca00f576-4ab6-4983-9ada-02d17d20ae02" />
+<img width="1354" height="674" alt="Captura de pantalla 2025-09-17 222300" src="https://github.com/user-attachments/assets/e70379a4-010b-4703-947f-771374c65231" />
+
+
+
+---
+
+## 🤝 Contributing
+Feel free to open issues or submit pull requests to improve the project.
+
+---
+
+## 📜 License
+MIT License — You are free to use, modify and distribute this project.
