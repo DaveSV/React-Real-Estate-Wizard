@@ -76,6 +76,17 @@ This information can be used for:
 - Generating embeddings to perform semantic searches on existing property listings.
 - Passing structured data to an LLM or RAG system for recommendations.
 
+### Example API Payload
+```json
+{
+  "descripcion": "casa amplia con jardin frontal",
+  "archivo_imagen": "house2.jpg",
+  "detalles": {
+    "ubicacion": "9.96133, -84.08867",
+    "precio_maximo": "150000",
+    "habitaciones_minimas": 3
+  }
+}
 
 ---
 
