@@ -65,6 +65,35 @@ real-estate-wizard/
 
 ---
 
+## 📊 Data Processing and AI Integration
+This front-end, when collecting user data and pressing the **"Confirm and Search"** button, creates a JSON file with the data and prints it to the console.
+
+
+This information can be used for:
+- Sending to a backend service for further processing.
+- Uploading the reference image to a cloud storage service or bucket.
+- Using geolocation APIs to find nearby points of interest.
+- Generating embeddings to perform semantic searches on existing property listings.
+- Passing structured data to an LLM or RAG system for recommendations.
+
+
+---
+
+
+## 💻 Running on Codespaces
+You can **download or clone this repository** and run it on **GitHub Codespaces** for a cloud-based development experience.
+
+
+```bash
+git clone https://github.com/YOUR-USERNAME/real-estate-wizard.git
+cd real-estate-wizard
+code . # Open in VS Code or Codespaces
+npm install && npm run dev
+```
+
+
+---
+
 ## 🎥 Demo & Screenshots
 Screenshots of user flow:
 
