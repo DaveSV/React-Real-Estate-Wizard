@@ -87,6 +87,7 @@ This information can be used for:
     "habitaciones_minimas": 3
   }
 }
+```
 
 ---
 
