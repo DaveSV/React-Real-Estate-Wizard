@@ -129,3 +129,5 @@ MIT License — You are free to use, modify and distribute this project.
 
 ## Front-end Demo
 https://react-real-estate-wizard.vercel.app/ 
+
+You can adapt the sending of the JSON to an endpoint created for inference by adding a FETCH(method: 'POST') in the handleConfirmAndSearch() method and loading the image with formData.append("image", imageFile);
