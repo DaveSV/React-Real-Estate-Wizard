@@ -2,7 +2,7 @@
 
 
 
-> **Real Estate Wizard** is a modern web application that guides users step by step to find their dream property.
+> **Real Estate Wizard** is a DEMO of a modern web application that guides users step by step to find their dream property.
 > Users can upload an inspirational image, describe what they are looking for, select a location on an interactive map, and adjust filters like price and number of rooms.
 
 ---
